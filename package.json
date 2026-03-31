@@ -1,0 +1,25 @@
+{
+  "name": "pretext-vue3-demo",
+  "version": "1.0.0",
+  "description": "Vue 3 + Pretext 文本布局引擎演示项目",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.4.0",
+    "pinia": "^2.1.0",
+    "@chenglou/pretext": "^0.0.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.0",
+    "vite": "^5.0.0",
+    "@vue/tsconfig": "^0.5.0",
+    "typescript": "^5.3.0"
+  },
+  "keywords": ["vue3", "pretext", "text-layout", "performance", "pinia"],
+  "author": "Your Name",
+  "license": "MIT"
+}
